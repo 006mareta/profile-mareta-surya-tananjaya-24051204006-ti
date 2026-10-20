@@ -1,4 +1,4 @@
-# Mareta Surya Tananjaya S1 Teknik Informatika
+# Mareta Surya Tananjaya S1 Teknik Informatika UNESA
 
 Selamat datang di profil GitHub saya! 💜
 
