@@ -85,6 +85,24 @@ Proyek akhir mata kuliah Pengolahan Citra Digital yang meningkatkan kualitas cit
 - **Happy Holiday Program**, English Flagship (Juni 2025): mengajar dasar-dasar Bahasa Inggris di ruang publik.
 - **Volunteer Pengajar**, Panti Asuhan Maslahatul
 
+## 🔬 Pengalaman Riset
+
+### Mahasiswa Riset, CAMEL Lab, Universitas Negeri Surabaya (Agustus 2026 – sekarang)
+Saya terlibat sebagai mahasiswa riset di **CAMEL Lab** Teknik Informatika UNESA di bawah bimbingan **Ervin Yohannes, S.Kom., M.Kom.**
+
+**Fokus riset:** Implementasi Deep Learning untuk *Image Deraining* pada citra hujan guna meningkatkan kualitas dan visibilitas citra.
+
+- Mempelajari pendekatan deep learning untuk menghilangkan efek hujan (rain streak) dari citra
+- Melakukan studi literatur, eksperimen, serta evaluasi kualitas citra hasil pemulihan
+- Mengasah kemampuan penelitian ilmiah: perancangan eksperimen, analisis hasil, dan penulisan ilmiah
+
+> 🔒 **Catatan:** Riset ini masih berjalan dan hasilnya belum dipublikasikan. Karena itu, detail metode, data, kode, dan hasil belum dapat saya tampilkan di profil ini. Informasi lebih lanjut akan saya tambahkan setelah publikasi diizinkan oleh tim riset.
+
+### Pengalaman Penelitian Sebelumnya
+- **Lomba Karya Tulis Ilmiah SOATION 2023** (Universitas Wiraraja, Sumenep): meneliti peran teknologi digital dan media sosial dalam membentuk generasi remaja digital entrepreneurship. Meraih Juara Harapan 1 tingkat se-Madura.
+
+---
+
 ## 📜 Sertifikat dan Transkrip Nilai
 
 Seluruh sertifikat dan transkrip nilai saya dapat dilihat di Google Drive berikut:
