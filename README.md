@@ -103,8 +103,8 @@ Saya terlibat sebagai mahasiswa riset di **CAMEL Lab** Teknik Informatika UNESA 
 
 ---
 
-## 📜 Sertifikat dan Transkrip Nilai
+## 📜 Sertifikat, Transkrip Nilai, dan Dokumen Pendukung
 
 Seluruh sertifikat dan transkrip nilai saya dapat dilihat di Google Drive berikut:
 
-💜 [Sertifikat dan Transkrip Nilai Mareta](https://drive.google.com/drive/folders/1TN-43MvKKCfBglhvQBYtFqAVSHsAXB-E?usp=sharing)
+💜 [Sertifikat, Transkrip Nilai, dan Dokumen Pendukung Mareta](https://drive.google.com/drive/folders/1TN-43MvKKCfBglhvQBYtFqAVSHsAXB-E?usp=sharing)
